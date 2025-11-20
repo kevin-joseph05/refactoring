@@ -1,3 +1,4 @@
+5f49bab updated and extracted volume, and edited log.txt - Task 2.2 complete
 8cfd799 Task 2.1 did some refactoring
 3539802 Task 1.2: update log.txt
 f33de93 fixed checkstyle issues

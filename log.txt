@@ -1,2 +1,4 @@
+8cfd799 Task 2.1 did some refactoring
+3539802 Task 1.2: update log.txt
 f33de93 fixed checkstyle issues
 8182fa9 Initial commit
